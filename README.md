@@ -21,7 +21,7 @@
 </div>
 👨‍💻 About Me :
 <p> 
-  I am Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  I am Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 <p>- :telescope: I’m working as a Freelancer and contributing to frontend for building web applications.</p>
 
